@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2.1 (64-bit)
+# SW Build 1957588 on Wed Aug  9 16:32:10 MDT 2017
+# IP Build 1948039 on Wed Aug  9 18:19:28 MDT 2017
+# Start of session at: Fri Dec 21 17:19:55 2018
+# Process ID: 15408
+# Current directory: /home/trungnguyen/01.IMPL/01.HDL/IPCORES/vttek/vt_util/edge_detection/edge_detection.runs/synth_1
+# Command line: vivado -log edge_detection.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source edge_detection.tcl
+# Log file: /home/trungnguyen/01.IMPL/01.HDL/IPCORES/vttek/vt_util/edge_detection/edge_detection.runs/synth_1/edge_detection.vds
+# Journal file: /home/trungnguyen/01.IMPL/01.HDL/IPCORES/vttek/vt_util/edge_detection/edge_detection.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source edge_detection.tcl -notrace

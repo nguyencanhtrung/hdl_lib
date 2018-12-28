@@ -1,0 +1,1 @@
+-wto "32ea3fc873b94df1b730c9eea2ffb0d9" --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "tb_edge_detection_func_synth" "xil_defaultlib.tb_edge_detection" -log "elaborate.log" 

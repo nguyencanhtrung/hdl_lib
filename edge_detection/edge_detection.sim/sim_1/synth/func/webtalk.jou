@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.2.1 (64-bit)
+# SW Build 1957588 on Wed Aug  9 16:32:10 MDT 2017
+# IP Build 1948039 on Wed Aug  9 18:19:28 MDT 2017
+# Start of session at: Fri Dec 21 16:07:02 2018
+# Process ID: 12857
+# Current directory: /home/trungnguyen/01.IMPL/01.HDL/IPCORES/vttek/vt_util/edge_detection/edge_detection.sim/sim_1/synth/func
+# Command line: wbtcv -mode batch -source /home/trungnguyen/01.IMPL/01.HDL/IPCORES/vttek/vt_util/edge_detection/edge_detection.sim/sim_1/synth/func/xsim.dir/tb_edge_detection_func_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/trungnguyen/01.IMPL/01.HDL/IPCORES/vttek/vt_util/edge_detection/edge_detection.sim/sim_1/synth/func/webtalk.log
+# Journal file: /home/trungnguyen/01.IMPL/01.HDL/IPCORES/vttek/vt_util/edge_detection/edge_detection.sim/sim_1/synth/func/webtalk.jou
+#-----------------------------------------------------------
+source /home/trungnguyen/01.IMPL/01.HDL/IPCORES/vttek/vt_util/edge_detection/edge_detection.sim/sim_1/synth/func/xsim.dir/tb_edge_detection_func_synth/webtalk/xsim_webtalk.tcl -notrace

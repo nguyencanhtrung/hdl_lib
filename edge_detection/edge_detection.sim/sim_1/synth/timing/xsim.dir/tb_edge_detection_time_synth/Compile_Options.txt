@@ -1,0 +1,1 @@
+-wto "32ea3fc873b94df1b730c9eea2ffb0d9" --debug "typical" --relax --mt "8" --maxdelay -L "xil_defaultlib" -L "simprims_ver" -L "secureip" --snapshot "tb_edge_detection_time_synth" -transport_int_delays -pulse_r "0" -pulse_int_r "0" -pulse_e "0" -pulse_int_e "0" "xil_defaultlib.tb_edge_detection" "xil_defaultlib.glbl" -log "elaborate.log" 
